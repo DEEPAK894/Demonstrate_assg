@@ -2,7 +2,7 @@
     config(
         materialized="view",
         alias="customer_details",
-        schema="STG"
+        schema="RPT"
     )
 }}
 
