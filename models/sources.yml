@@ -9,7 +9,6 @@ sources:
       - name: customer
       - name: region
       - name: orders
-
   - name: stripe
     tables:
       - name: payments
